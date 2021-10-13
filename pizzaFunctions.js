@@ -1,6 +1,6 @@
 function setRed() {
-  document.body.style.background = "red";
+  pageTitle.style.background="red";
 }
 function setWhite() {
-  document.body.style.background = "white";
+  pageTitle.style.background="white";
 }
